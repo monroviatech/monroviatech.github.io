@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
-title: Monrovia.Tech/Meetup
+title: monrovia.tech/meetup
 description: The meeting place for Liberia's tech scene
 gems:
   - jekyll-redirect-from
