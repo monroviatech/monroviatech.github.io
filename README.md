@@ -1,6 +1,11 @@
-# monrovia.tech/meetup
+---
+title: Monrovia.Tech/Meetup
+---
 
-Welcome to Monrovia Tech Meetup! This is the meeting place for the tech scene in Liberia.
+# Welcome!
+
+We are happy to see you here at Monrovia Tech Meetup!
+This is the meeting place for the tech scene in Liberia.
 
 ## Who?
 
