@@ -1,6 +1,7 @@
 ---
 title: Monrovia.Tech/Meetup
 redirect_from: "/"
+permalink: meetup/
 ---
 
 # Welcome!
