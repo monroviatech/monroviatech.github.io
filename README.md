@@ -1,5 +1,6 @@
 ---
 title: Monrovia.Tech/Meetup
+redirect_from: "/"
 ---
 
 # Welcome!
