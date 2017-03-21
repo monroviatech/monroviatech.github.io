@@ -35,9 +35,13 @@ Lila Brown, 19th Street sea-side.
 Ping us at [info@monrovia.tech](mailto:info@monrovia.tech) or subscribe to the [mailing list](https://mail.yesbabyyes.se/mailman/listinfo/meetup):
 
 <form method="post" action="https://mail.yesbabyyes.se/mailman/subscribe/meetup" target="_blank">
-<label for="email">E-mail address:</label>
-<input type="email" name="email" id="email">
-<label for="name">Name (optional):</label>
-<input type="text" name="fullname" id="name">
-<button type="submit">Subscribe</button>
+  <p>
+    <label for="email">E-mail address:</label>
+    <input type="email" name="email" id="email">
+  </p>
+  <p>
+    <label for="name">Name (optional):</label>
+    <input type="text" name="fullname" id="name">
+    <button type="submit">Subscribe</button>
+  </p>
 </form>
