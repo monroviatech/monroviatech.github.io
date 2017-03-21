@@ -32,4 +32,4 @@ Lila Brown, 19th Street sea-side.
 
 ## Get in touch
 
-[info@monrovia.tech](mailto:info@monrovia.tech)
+Ping us at [info@monrovia.tech](mailto:info@monrovia.tech)!
