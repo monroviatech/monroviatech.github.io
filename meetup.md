@@ -25,7 +25,7 @@ Sharing a pizza, having a beer or what suits your fancy. Nothing more, nothing l
 
 ## When?
 
-Wednesday March 22nd 2017 at 6 PM.
+Wednesdays at 6 PM.
 
 ## Where?
 
