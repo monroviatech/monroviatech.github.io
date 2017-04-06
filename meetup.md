@@ -25,7 +25,7 @@ Sharing a pizza, having a beer or what suits your fancy. Nothing more, nothing l
 
 ## When?
 
-Wednesdays at 6 PM.
+First Tuesday of the month at 6.30 PM.
 
 ## Where?
 
