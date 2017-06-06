@@ -26,8 +26,7 @@ Sharing a pizza, having a beer or what suits your fancy. Nothing more, nothing l
 ## When?
 
 Thursday, April 27th, 6.30 PM.
-
-~~First Tuesday of the month at 6.30 PM.~~
+-First Tuesday of the month at 6.30 PM.-
 
 ## Where?
 
