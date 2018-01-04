@@ -12,7 +12,7 @@ This is the meeting place for the tech scene in Liberia.
 ## Who?
 
 Monrovia Tech Meetup is initiated by [Yes Baby ¥€$](https://yesbabyyes.se/) in collaboration
-with [Cook Shop](http://cookshop.biz/), [iLab Liberia](http://www.ilabliberia.org/), employees
+with [TechSol](https://www.facebook.com/libtechsol/), [Cook Shop](http://cookshop.biz/), employees
 at [eHealth Africa](http://ehealthafrica.org/) and students from
 [BlueCrest Liberia](http://liberia.bluecrestcollege.com/).
 
